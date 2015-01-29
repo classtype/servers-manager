@@ -1,0 +1,36 @@
+{
+  "name": "servers-manager",
+  "version": "0.0.0",
+  "description": "Модуль для управления проектами.",
+  "contributors": [
+    {
+      "name": "Sergei Korenkov",
+      "email": "classtype@mail.ru"
+    },
+    {
+      "name": "Aleksandr Balyunov",
+      "email": "albalyu@gmail.com"
+    }
+  ],
+  "main": "src/servers-manager.js",
+  "homepage": "http://github.com/classtype/servers-manager",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/classtype/servers-manager.git"
+  },
+  "bugs": {
+    "url": "http://github.com/classtype/servers-manager/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/classtype/servers-manager/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "Модуль для управления проектами."
+  ],
+  "dependencies": {
+    "app.init": "latest"
+  }
+}
